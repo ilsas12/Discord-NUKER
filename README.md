@@ -2,8 +2,14 @@
   <h1>---- Discord NUKER ----</h1>
         <p>🟢Discord Tool made bye a rookie python scripter🟢<p>
   <p>⚠️Only For Education⚠️</p>
+  
+  
+  
+![image](https://github.com/ilsas12/Discord-NUKER/assets/137562678/7225baab-6c58-487c-8180-f87112c36e3c)
 
 
+
+![image](https://github.com/ilsas12/Discord-NUKER/assets/137562678/58e6a20a-3288-4b6b-aa7f-e515ec3df590)
 
 
 
