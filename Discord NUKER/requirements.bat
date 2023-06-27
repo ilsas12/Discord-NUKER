@@ -1,3 +1,5 @@
-pip install time
+pip install colorama
 pip install requests
-pip install pystyle 
+pip install fade
+pip install psustil
+pip install pystyle
