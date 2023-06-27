@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>---- Discord NUKER ----</h1>
-        <p>🟢Discord Tool made bye a rookie python scripter🟢<p>
+  <h1>----------------------------------------------------> Discord NUKER <-------------------------------------------</h1>
+
   <p>⚠️Only For Education⚠️</p>
   
   
