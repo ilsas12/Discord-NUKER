@@ -14,9 +14,9 @@
 
 
 
-⭐Je continue ce tool en permanance , dites moi ce que vous voulez comme tool dans le futur⭐
+⭐I continue this tool permanently, tell me what you want as a tool in the future.⭐
 
-⚠️Je ne suis pas responsable de vos actes ni de ce qu'il vous arrive.⚠️ 
+⚠️I am not responsible for your actions or what happens to you.⚠️ 
 
 
 How to run Windows
